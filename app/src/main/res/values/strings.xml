@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">SubmissionPemula</string>
+    <string name="nama_masjid">Nama Masjid</string>
+    <string name="tahun_masjid">Tahun Berdiri: </string>
+    <string name="lihat_detail">Lihat Detail</string>
+
+    <string-array name="nama_masjid">
+        <item>Masjid Agung Baiturrahman</item>
+        <item>Masjid Istiqlal</item>
+        <item>Masjid Nasional Al-Akbar</item>
+        <item>Masjid Islamic Center</item>
+        <item>Masjid Kubah Emas</item>
+        <item>Masjid Agung An-Nur</item>
+        <item>Masjid Agung Jawa Tengah</item>
+        <item>Masjid Rahmatan Lil Alamin</item>
+        <item>Masjid Al Safar</item>
+        <item>Masjid Al Irsyad</item>
+    </string-array>
+
+    <array name="foto_masjid">
+        <item>@drawable/masjid_aceh</item>
+        <item>@drawable/masjid_istiqlal</item>
+        <item>@drawable/masjid_alakbar</item>
+        <item>@drawable/islamic_center</item>
+        <item>@drawable/masjid_almahri</item>
+        <item>@drawable/masjid_annur</item>
+        <item>@drawable/masjid_agung_jateng</item>
+        <item>@drawable/masjid_rahmatan_lilalamin</item>
+        <item>@drawable/masjid_alsafar</item>
+        <item>@drawable/masjid_alirsyad</item>
+    </array>
+
+    <string-array name="lokasi_masjid">
+        <item>Banda Aceh, Aceh</item>
+        <item>Jakarta Pusat, DKI Jakarta</item>
+        <item>Surabaya, Jawa Timur</item>
+        <item>Samarinda, Kalimantan Timur</item>
+        <item>Depok, Jawa Barat</item>
+        <item>Pekanbaru, Riau</item>
+        <item>Semarang, Jawa Tengah</item>
+        <item>Indramayu, Jawa Barat</item>
+        <item>Bandung, Jawa Barat</item>
+        <item>Bandung, Jawa Barat</item>
+    </string-array>
+
+    <string-array name="deskrips_masjid">
+        <item>Masjid Raya Baiturrahman dibangun oleh Sultan Iskandar Muda Mahkota Alam (Kesultanan Aceh) pada tahun 1612. Bangunan masjid ini indah, megah mirip dengan Taj Mahal di India dan terletak tepat di jantung Kota Banda Aceh. Tak heran kalau Masjid Agung Baiturrahman menjadi titik pusat dari segala kegiatan di Provinsi Nanggroe Aceh Darussalam. Bangunan masjid sendiri menganut gaya Moghul, yakni khas India. Selama waktu berjalan, Masjid Agung Baiturrahman telah mengalami perluasan pada tahun 1936, 1958 – 1965, 1992, dan direnovasi kembali pada tahun 2008. Luas ruangan masjid yang mencapai 4.760 m persegi dengan lantai marmer buatan Italia, disebut mampu menampung hingga 9.000 jamaah. Masjid Raya Baiturrahman Aceh kini memiliki 7 kubah, 4 menara, dan 1 menara induk. Masjid ini berdiri begitu kokoh dan kuat, buktinya dapat kita lihat saat terjadi bencana tsunami tahun 2004 silam. Pada peristiwa tersebut, Masjid Agung Baiturrahman tak gentar dan tetap berdiri meski diterjang ombak tsunami. Masjid Agung Baiturrahman pernah dibakar saat Belanda menyerang Kesultanan Aceh pada tanggal 10 April 1873, sehingga menyulut emosi masyarakat setempat. Meski begitu, pemerintah Belanda bertanggung jawab dan mengaku bersalah dengan melakukan perbaikan pembangunan masjid. Selain tempat beribadah, Masjid Agung Baiturrahman menjadi objek wisata religi yang mampu membuat setiap wisatawan berdecak kagum saat melihat sejarah dan keindahan arsitekturnya. Gaya arsitektur memukau, ukiran-ukiran indah, dan halaman luas dengan kolam pancuran air bergaya Kesultanan Turki Utsmani, mampu memanjakan mata Anda.</item>
+        <item>Pembangunan masjid diprakarsai oleh proklamator sekaligus presiden pertama Indonesia, Soekarno. Peletakan batu pertama sebagai tanda dimulainya pembangunan Masjid Istiqlal, dilakukan oleh Bung Karno pada tanggal 24 Agustus 1951 silam. Arsitek Masjid Istiqlal, Frederich Silaban, membawa gaya arsitektur modern dengan dinding dan lantai berlapis marmer serta hiasan ornamen geometrik dari baja antikarat. Bangunan utama masjid ini terdiri dari lima lantai dan satu lantai dasar, dimahkotai satu kubah besar berdiameter 45 meter yang ditopang 12 tiang besar. Menara tunggal setinggi total 96,66 meter menjulang di sudut selatan selasar. Masjid Istiqlal diperkirakan mampu menampung lebih dari 200.000 jamaah. Selain sebagai tempat ibadah, Masjid Istiqlal juga merupakan objek wisata religi, pusat pendidikan, dan pusat aktivitas syiar Islam. Wisatawan yang berkunjung, dapat melihat keunikan arsitektur masjid yang merupakan perpaduan antara arsitektur Indonesia, Timur Tengah, dan Eropa. Masjid Istiqlal menyimpan bedug raksasa yang terbuat dari sebatang pohon kayu meranti merah asal pulau Kalimantan, berusia sekitar 300 tahun. Wow! Luas bangunan masjid sebetulnya hanya mencapai 26 persen dari kawasan seluas 9.32 hektare, karena selebihnya diisi oleh halaman dan pertamanan. Pada taman masjid di sudut barat daya, terdapat kolam besar dengan air mancur yang dapat menyemburkan air setinggi 45 meter. Perlu diketahui bahwa air mancur ini hanya diaktifkan tiap hari Jumat menjelang salat Jumat, atau pada hari raya dan momen penting keagamaan.</item>
+        <item>Nama lain dari masjid ini yang lebih terkenal adalah Masjid Agung Surabaya. Ya, Masjid Surabaya menjadi yang termegah di Provinsi Jawa Timur bahkan salah satu dari 7 masjid terbesar di Asia Tenggara. Masjid Agung Surabaya dibangun sejak tanggal 4 Agustus 1995 lewat gagasan Wali Kota Surabaya saat itu, Soenarto Soemoprawiro. Ciri khas dari Masjid Agung Surabaya adalah kubahnya yang besar, 4 kubah kecil berwarna biru, serta menara 99 meter yang menjulang tinggi. Ciri lain yang dapat terlihat adalah pintu masuk ke dalam ruangan masjid yang tinggi serta besar, lalu mihrabnya adalah mihrab masjid terbesar di Indonesia. Secara fisik, luas bangunan dan fasilitas penunjang Masjid Agung Surabaya adalah 22.300 meter persegi, dengan rincian panjang 147 meter serta lebar 128 meter. Rancang bangun arsitektur Masjid Agung Surabaya dikerjakan oleh tim dari Institut Teknologi Sepuluh Nopember (ITS) Surabaya. Tak sendirian, tim dari ITS turut ditemani sejumlah konsultan ahli yang telah berpengalaman membangun masjid-masjid besar di Indonesia. Marmer dari Lampung dipilih sebagai pelapis dinding dan lantai ruang dalam masjid, sehingga bangunan masjid tampak konon namun sejuk di waktu yang bersamaan. Masjid Agung Surabaya tak hanya menjadi tempat ibadah, tapi juga turut digunakan sebagai sarana wisata, istirahat, berdiskusi, dan pusat  kegiatan keagamaan tertentu.</item>
+        <item>Masjid Islamic Center Samarinda adalah masjid termegah dan terbesar kedua di Asia Tenggara setelah Istiqlal. Latar depan masjid adalah tepian sungai Mahakam. Masjid Islamic Center Samarinda memiliki menara dan kubah besar yang berdiri tegak. Luas lahan mencapai 43.500 meter persegi, luas bangunan 7.115 meter, dan luas lantai basement mencapai 10.235 meter persegi. Sementara itu, lantai dasar masjid memiliki 10.270 meter persegi dan lantai utama seluas 8.185 meter persegi. Sedangkan luas lantai mezanin (balkon) adalah 5.290 meter persegi. Terdapat sejumlah 7 menara di mana menara utama setinggi 99 meter yang bermakna asmaul husna atau nama-nama Allah yang jumlahnya 99. Menara utama terdiri atas bangunan 15 lantai  dengan masing-masing tinggi rata-rata 6 meter. Sementara itu, anak tangga dari lantai dasar menuju lantai utama masjid jumlahnya sebanyak 33 anak tangga. Jumlah tersebut konon sengaja disamakan dengan sepertiga jumlah biji tasbih. Selain menara utama, bangunan ini juga memiliki 6 menara di bagian sisi masjid. Masing-masing 4 di setiap sudut masjid setinggi 70 meter dan 2 menara di bagian pintu gerbang setinggi 57 meter. Enam menara ini juga bermakna sebagai 6 rukun iman umat islam. Sambil melihat keindahan pemandangan Sungai Mahakam, kita juga bisa berwisata dan beribadah di Masjid Islamic Center Samarinda lho, Urbanites!</item>
+        <item>Masjid Kubah Emas alias Masjid Dian Al Mahri, dibangun di tepi jalan Raya Meruyung, Limo, Depok di Kecamatan Limo, Depok. Sesuai dengan namanya, masjid ini menarik perhatian banyak orang karena kubah-kubahnya yang dibuat dari emas. Selain itu karena areanya luas dan bebas diakses untuk umum, tempat ini sering menjadi tujuan liburan keluarga atau hanya sekadar tempat beristirahat. Masjid Dian Al Mahri memiliki 5 kubah, yakni satu kubah utama dan 4 kubah kecil. Seluruh kubah dilapisi emas setebal 2 sampai 3 milimeter dan mozaik kristal. Selain itu, relief hiasan di atas tempat imam juga terbuat dari emas 18 karat. Begitu juga pagar di lantai dua dan hiasan kaligrafi di langit-langit masjid yang turut dilapisi emas. Sedangkan mahkota pilar masjid yang berjumlah 168 buah berlapis bahan prado atau sisa emas. Kira-kira butuh biaya berapa ya, untuk membeli emas sebanyak itu? Hmmm…. Secara umum, arsitektur masjid mengikuti tipologi arsitektur masjid di Timur Tengah dengan ciri kubah, menara dan halaman dalam. Selain itu, penggunaan detail atau hiasan dekoratif dengan elemen geometris dan obelisk juga terinspirasi dari tipologi arsitektur masjid di Timur Tengah. Ciri lainnya adalah gerbang masuk berupa portal dan hiasan geometris serta obelisk sebagai ornamen. Ruang masjid didominasi warna monokrom dengan unsur utama warna krem untuk memberi karakter ruang yang tenang dan hangat. Materialnya terbuat dari bahan marmer yang diimpor dari Turki dan Italia. Lampu yang menggantung di ruang tengah masjid, terbuat dari kuningan berlapis emas seberat 2,7 ton dan pengerjaannya digarap ahli dari Italia.</item>
+        <item>Masjid Agung An-Nur dibangun pada tahun 1963 dan selesai pada tahun 1968. Berdasarkan aspek arsitektur, masjid ini banyak mendapat pengaruh gaya Melayu, Turki, Arab dan India. Masjid Agung An-Nur Riau yang kita saksikan begitu megah saat ini, bukanlah bangunan asli hasil pembangunan pada masa lampau. Masjid yang berdiri saat ini, merupakan hasil renovasi total dan pembangunan kembali pada tahun 2000-an lalu. Melalui pembangunan baru tersebut, luas lahan masjid bertambah tiga kali lipat dari sebelumnya yang hanya seluas 4 hektare menjadi 12,6 hektare. Luasnya lahan masjid saat ini, sanggup memberikan keleluasaan bagi penyediakan lahan terbuka untuk kawasan hijau dan lahan parkir. Bila diamati, arsitektural masjid Agung An-Nur memiliki beberapa kesamaan dengan Taj Mahal—sehingga ia kerap disebut “Taj Mahal-nya Riau”. Arsitektur masjid dirancang oleh Roseno dengan kapasitas yang mampu menampung sekitar 4.500 orang jamaah. Bangunan masjid terdiri dari tiga tingkat; lantai atas digunakan untuk salat, kemudian yang bawah untuk kantor dan ruang pertemuan. Masjid Agung An-Nur mempunyai tiga buah tangga, yakni 1 buah tangga di bagian muka dan 2 buah tangga di bagian samping. Bagian atas terdiri dari 13 buah pintu dan bagian bawah terdiri dari 4 buah pintu, masing-masing lantai mempunyai kamar-kamar yang besar dan sebuah aula. Uniknya, Masjid Agung An-Nur turut dilengkapi oleh berbagai macam fasilitas pendidikan mulai dari playgroup, TK sampai SMA, perpustakaan, hingga sarana pendukung lainnya.</item>
+        <item>Masjid ini mulai dibangun sejak tahun 2001 hingga selesai secara keseluruhan pada tahun 2006. Berdiri di atas lahan 10 hektare. Masjid Agung Jawa Tengah diresmikan oleh presiden Indonesia pada masanya, Susilo Bambang Yudhoyono, tanggal 14 November 2006. Masjid Agung Jawa Tengah dirancang oleh Ahmad Fanani lewat gaya arsitektural campuran Jawa, Islam serta Romawi. Bangunan utama masjid beratap limas khas bangunan Jawa, namun bagian ujungnya dilengkapi dengan kubah besar berdiameter 20 meter. Keberadaan kubah besar tersebut, disertai oleh 4 menara dengan tinggi masing-masing mencapai 62 meter di tiap penjuru atapnya. Gaya Romawi jelas tampak pada bangunan 25 pilar di pelataran masjid. Pilar-pilar bergaya koloseum Athena di Romawi, dihiasi kaligrafi-kaligrafi yang indah. Gerbang pintu bertuliskan dua kalimat syahadat, serta pada bidang datar terdapa huruf Arab Melayu yang dibaca Sucining Guno Gapuraning Gusti. Masjid Agung Jawa Tengah juga dipersiapkan sebagai objek wisata religius. Bangunan masjid dilengkapi wisma penginapan dengan kapasitas 23 kamar berbagai kelas, sehingga para peziarah yang ingin bermalam bisa memanfaatkan fasilitas tersebut. Fasilitas yang ada serta penginapan barusan, mampu menunjang wisata religi secara intim dan khidmat.</item>
+        <item>Masjid Rahmatan Lil Alamin dibangun pada 5 April 2000, terletak di Kampus Al Zaytun, Desa Mekarjaya, Kecamatan Haurgeulis ,Indramayu, Jawa Barat. Masjid dengan area seluas 6,5 hektare ini, konon bisa menampung hingga 200 ribu jamaah. Terdapat 7 lantai yang berukuran 99 x 99 meter di setiap tingkat. Lantai ketujuh disebut sebagai atap masjid, satu-satunya masjid yang atapnya bisa menampung kurang lebih 4000 jamaah. Gaya masjid ini berkiblat pada tradisonal kontemporer ala beberapa masjid populer di dunia. Bentuk lengkungan pada mihrab misalnya, mengadopsi lengkungan Masjid Cordoba yang dibangun oleh Umayyah. Sedangkan, bentuk lengkungan pada empat gerbang utama masjid mengadopsi masjid di Mesir yang dibangun oleh Fatimiyah. Ada lima buah kubah pada masjid ini, dengan kubah besar dikelilingi oleh empat kubah yang lebih kecil seperempat lingkaran, Kemudian pada setiap puncak sudut masjid, terdapat delapan kubah yang melambangkan delapan arah mata angin sebagai simbol seluruh penjuru dunia. Satu hal yang membuat menarik adalah konstruksi bangunan dirancang tahan ratusan hingga ribuan tahun. Masjid Rahmatan Lil Alamin dirancang tahan gempa karena menggunakan pondasi kapal atau kerap disebut raft pondation. Kerangka Masjid menggunakan baja berkualitas terbaik di dunia yang didatangkan langsung dari Polandia, Rusia, serta Korea. Banyak yang menyebut kalau masjid ini menjadi yang termegah di Indonesia. Hal itu terjadi karena selain kokoh, ia juga menjunjung tinggi nilai keislaman yang filosofis dan bermakna dalam.</item>
+        <item>Masjid Al Safar adalah sebuah masjid yang terletak di di rest area KM 88 B Tol Cipularang, Bandung, Jawa Barat. Masjid tersebut memiliki luas 6.000 meter persegi dan mampu menampung hingga 1.200 jemaah. Terdapat fasilitas lengkap di dalamnya seperti toilet, tempat wudhu hingga taman dan kolam yang menambah sejuk. Dirancang oleh Gubrnur Jawa Barat Ridwan Kamil bersama Tim Urbane, masjid tersebut memiliki desain yang mirip bentuk topi adat Sunda.</item>
+        <item>Masjid Al-Irsyad merupakan sebuah masjid yang terletak di Padalarang, Kabupaten Bandung Barat, Jawa Barat, Indonesia. Masjid ini dibangun pada tahun 2009 dan selesai pada tahun 2010. Bentuk masjid sekilas hanya seperti kubus besar laiknya bentuk bangunan Kubah di Arab Saudi. Dengan konsep ini, dari luar terlihat garis-garis hitam di sekujur dinding masjid. Masjid Al-Irsyad diresmikan pada 17 Ramadan 1431 Hijriah tepatnya 27 Agustus 2010 silam. Bangunannya unik, megah, dan kokoh. Beberapa bulan setelah dibangun, masjid yang memiliki arsitektur memukau ini langsung menyabet penghargaan bergengsi tingkat dunia.</item>
+    </string-array>
+
+    <string-array name="tahun_berdiri">
+        <item>1612</item>
+        <item>1951</item>
+        <item>1995</item>
+        <item>2000</item>
+        <item>2001</item>
+        <item>1963</item>
+        <item>2001</item>
+        <item>2000</item>
+        <item>2016</item>
+        <item>2009</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lokasi_masjid">Lokasi Masjid: </string>
+    <string name="deskripsi_masjid">Deskripsi Masjid:</string>
+    <string name="tahun">Tahun</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="account">account</string>
+    <string name="nama_saya">Zaki Mukhammad</string>
+    <string name="email">zakimuhammad20@gmail.com</string>
+    <string name="about_me">About Me</string>
+</resources>

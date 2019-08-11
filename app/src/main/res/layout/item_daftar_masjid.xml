@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="16dp"
+        android:layout_margin="8dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="12dp">
+            <ImageView
+                android:id="@+id/img_daftar_masjid"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerVertical="true"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/tv_nama_daftar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="18dp"
+                android:text="@string/nama_masjid"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:layout_toEndOf="@id/img_daftar_masjid" />
+
+            <TextView
+                android:id="@+id/tv_lokasi_daftar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/tahun_masjid"
+                android:textSize="14sp"
+                android:textColor="@color/black"
+                android:layout_marginLeft="8dp"
+                android:layout_marginStart="18dp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@id/tv_nama_daftar"
+                android:layout_toEndOf="@id/img_daftar_masjid"/>
+
+            <TextView
+                android:id="@+id/tv_year_daftar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/tahun_masjid"
+                android:textSize="14sp"
+                android:textColor="@color/black"
+                android:layout_marginLeft="8dp"
+                android:layout_marginStart="18dp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@id/tv_lokasi_daftar"
+                android:layout_toEndOf="@id/img_daftar_masjid"/>
+
+            <Button
+                android:id="@+id/btn_detail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/lihat_detail"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="14sp"
+                android:background="@drawable/btn_rounded_blue"
+                android:layout_toEndOf="@id/img_daftar_masjid"
+                android:layout_below="@id/tv_year_daftar"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="18dp" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>
